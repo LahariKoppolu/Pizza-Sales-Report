@@ -16,5 +16,7 @@ A Tableau dashboard analyzing pizza sales trends, including revenue, peak sales 
 🛠️ Tools Used:
 
 Tableau for data visualization
+
 SQL for data extraction
+
 Python (Pandas) for data cleaning
