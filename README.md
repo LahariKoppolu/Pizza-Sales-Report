@@ -29,7 +29,7 @@ The project showcases both technical analysis (SQL, Tableau) and business delive
 - Calculated key business KPIs such as Total Revenue, Total Orders, and Average Order Value (AOV).
 - Built an **interactive Tableau dashboard** to visualize sales performance by category, size, and date range.
 
-🔗 [View Tableau Dashboard (Coming Soon)]()
+
 
 ---
 
@@ -68,8 +68,8 @@ These documents frame the project from a business objectives and stakeholder nee
 
 ## 🚀 How to Use This Repository
 
-1. Explore the [Data Analysis](./Data_Analysis/) folder for SQL scripts and Tableau files.
-2. Review the [Business Analysis](./Business_Analysis/) folder for project documentation.
+1. Explore the [Data Analysis](https://github.com/LahariKoppolu/Pizza-Sales-Report/tree/main/Data%20Analyst) folder for SQL scripts and Tableau files.
+2. Review the [Business Analysis](https://github.com/LahariKoppolu/Pizza-Sales-Report/tree/main/Business%20Analysis) folder for project documentation.
 3. Clone the repository and replicate the analysis or business documentation framework for your own projects.
 
 ---
@@ -83,4 +83,3 @@ I combine data expertise with business acumen to drive decisions, solve problems
 
 ---
 
-## ⭐ If you found this project interesting, feel free to star ⭐ the repository or connect with me for collaborations!
