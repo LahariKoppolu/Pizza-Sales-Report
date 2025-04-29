@@ -37,9 +37,9 @@ The project showcases both technical analysis (SQL, Tableau) and business delive
 
 This project was expanded beyond technical work to simulate a real-world Business Analyst role, producing:
 
-- 📄 [Business Requirement Document (BRD)](link-here)
-- 📋 [User Stories Document](link-here)
-- 📊 [KPI Analysis Sheet](link-here)
+- 📄 [Business Requirement Document (BRD)](https://github.com/LahariKoppolu/Pizza-Sales-Report/blob/main/Business%20Analysis/Business%20Requirement%20Document.docx)
+- 📋 [User Stories Document](https://github.com/LahariKoppolu/Pizza-Sales-Report/blob/main/Business%20Analysis/Pizza%20Sales%20Dashboard%20-%20User%20Stories.docx)
+- 📊 [KPI Analysis Sheet](https://github.com/LahariKoppolu/Pizza-Sales-Report/blob/main/Business%20Analysis/Pizza%20Sales%20KPI%20Analysis.docx)
 
 These documents frame the project from a business objectives and stakeholder needs perspective.
 
